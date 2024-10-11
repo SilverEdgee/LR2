@@ -1,0 +1,1 @@
+CMakeLists.txt not found in /home/denis/Documents/453503/ОАиП/LR2/Task2 Select CMakeLists.txt
